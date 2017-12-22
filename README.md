@@ -2,6 +2,7 @@
 SimpleLogger is very simple logging tool in Swift.
 
 # Installation
+carthage
 ```
 github "shindyu/SimpleLoggeer"
 ```
